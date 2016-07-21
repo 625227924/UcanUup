@@ -1,0 +1,1 @@
+使用javascript编写，在index.html中打开控制台有输出结果
